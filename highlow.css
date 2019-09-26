@@ -1,3 +1,21 @@
 body {
-    background-color: red; 
+    background: url("https://www.takeagamble.co.uk/wp-content/uploads/2018/02/casino-background-footer-1.jpg");
+    text-align: center; 
+    padding-top: 200px; 
+    font-family: 'Fredoa One', cursive;
+}
+
+#cardimg {
+    border-radius: 200px; 
+}
+
+button {
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px; 
+    padding: 10px; 
+    margin-top: 20px; 
+    background-color: darkgreen;
+    color: yellow;
+    border: 2px solid yellow; 
+
 }

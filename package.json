@@ -1,0 +1,23 @@
+{
+  "name": "higherLower",
+  "version": "1.0.0",
+  "description": "",
+  "main": "highlow.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeCous/higherLower.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeCous/higherLower/issues"
+  },
+  "homepage": "https://github.com/JoeCous/higherLower#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
